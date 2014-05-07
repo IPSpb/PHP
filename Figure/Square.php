@@ -6,7 +6,7 @@ class Square extends Figure{
 
     public function __construct($l)
     {
-        $this->length = $l;
+        $this->length = (int)$l;
         $this->type = 'Квадрат';
     }
 

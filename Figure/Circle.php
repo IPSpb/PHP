@@ -6,7 +6,7 @@ class Circle extends Figure{
 
     public function __construct($r)
     {
-        $this->radius = $r;
+        $this->radius = (int)$r;
         $this->type = 'Круг';
     }
 
