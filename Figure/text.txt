@@ -1,0 +1,3 @@
+Triangle;13;12;7
+Circle;10
+Square;20
